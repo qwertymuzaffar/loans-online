@@ -1,0 +1,13 @@
+{
+  "appId": "microloans.online.io",
+  "appName": "Взайм деньги",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

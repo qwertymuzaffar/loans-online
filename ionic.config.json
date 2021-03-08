@@ -1,0 +1,8 @@
+{
+  "name": "loans-online",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
